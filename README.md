@@ -34,4 +34,4 @@ Whisper 是通用语音识别模型，支持多语言语音识别、翻译和语
 
 
 
-<div><a href="https://wp.huinong.co/index.php/abut_me/" target="_blank">联系我们</a>  |  <a href="https://oneapi.huinong.co" target="_blank">GPTech API</a> | <a href="https://home.huinong.co/" target="_blank">Go Home 301</a> | <a href="https://fk.huinong.co/" target="_blank">发卡平台</a></div><br/> 
+<div> <a href="https://api.tpz.pub" target="_blank">GPTech API</a> | <a href="https://home.tpz.pub/" target="_blank">Go Home 301</a> </div><br/> 
